@@ -1,2 +1,2 @@
-# [![View this repository in action!](https://beevman.github.io/)
+# [View this repository in action!](https://beevman.github.io/)
 

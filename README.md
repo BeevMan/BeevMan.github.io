@@ -1,4 +1,2 @@
-# hello-world
-just making my first repository
-my first README!!! :)
-trying an edit! 
+# [![View this repository in action!](https://beevman.github.io/)
+
